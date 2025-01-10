@@ -71,7 +71,7 @@ Um programa que inverte os caracteres de uma string sem usar funções prontas.
 │   │   │   │   │   ├── FaturamentoDistribuidora.java    # Analisa o faturamento diário
 │   │   │   │   │   ├── PercentualFaturamento.java       # Calcula percentuais por estado
 │   │   │   │   │   ├── InverterString.java              # Inversão de strings
-│   └── test                                             # Testes unitários
+│   └── test                                            
 │       └── java
 │           ├── com
 │           │   ├── example
